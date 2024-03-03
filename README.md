@@ -1,4 +1,4 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+Saludos, esta es una prueba tecnica para la empresa DevTop, realizada en react native cli, la cual consistio en un login con validaciones regex y un diseño a modo de ejemplo.
 
 # Getting Started
 
